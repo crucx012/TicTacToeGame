@@ -1,0 +1,8 @@
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\bin\Release\TTT.exe.config
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\bin\Release\TTT.exe
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\bin\Release\TTT.pdb
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\bin\Release\TicTacToe.dll
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\bin\Release\TicTacToe.pdb
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\obj\Release\TTT.csprojResolveAssemblyReference.cache
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\obj\Release\TTT.exe
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\obj\Release\TTT.pdb
