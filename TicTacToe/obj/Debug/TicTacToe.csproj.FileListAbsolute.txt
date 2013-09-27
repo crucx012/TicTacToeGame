@@ -1,0 +1,5 @@
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
