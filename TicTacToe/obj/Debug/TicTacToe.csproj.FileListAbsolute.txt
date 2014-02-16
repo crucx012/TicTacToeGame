@@ -3,3 +3,7 @@ C:\Users\wblack\Documents\Visual Studio 2012\Projects\TicTacToe\TicTacToe\bin\De
 C:\Users\wblack\Documents\Visual Studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
 C:\Users\wblack\Documents\Visual Studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
 C:\Users\wblack\Documents\Visual Studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Projects\Training\Initial Kata\TicTacToeGame\TicTacToe\bin\Debug\TicTacToe.dll
+C:\Projects\Training\Initial Kata\TicTacToeGame\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Projects\Training\Initial Kata\TicTacToeGame\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Projects\Training\Initial Kata\TicTacToeGame\TicTacToe\obj\Debug\TicTacToe.pdb

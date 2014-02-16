@@ -48,7 +48,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\wblack\Documents\Visual Studio 2012\Projects\TicTacToe\TicTacToe\TicTacToe.csproj">
+    <ProjectReference Include="TicTacToe\TicTacToe.csproj">
       <Project>{f8d7ac0b-72cb-4f8f-9ebb-72acfc33a28c}</Project>
       <Name>TicTacToe</Name>
     </ProjectReference>

@@ -14,3 +14,11 @@ C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\bin\Debug\TTT.exe
 C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\bin\Debug\TTT.pdb
 C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\bin\Debug\TicTacToe.dll
 C:\Users\wblack\Documents\Visual Studio 2012\Projects\TTT\bin\Debug\TicTacToe.pdb
+C:\Projects\Training\Initial Kata\TicTacToeGame\bin\Debug\TTT.exe.config
+C:\Projects\Training\Initial Kata\TicTacToeGame\bin\Debug\TTT.exe
+C:\Projects\Training\Initial Kata\TicTacToeGame\bin\Debug\TTT.pdb
+C:\Projects\Training\Initial Kata\TicTacToeGame\bin\Debug\TicTacToe.dll
+C:\Projects\Training\Initial Kata\TicTacToeGame\bin\Debug\TicTacToe.pdb
+C:\Projects\Training\Initial Kata\TicTacToeGame\obj\Debug\TTT.csprojResolveAssemblyReference.cache
+C:\Projects\Training\Initial Kata\TicTacToeGame\obj\Debug\TTT.exe
+C:\Projects\Training\Initial Kata\TicTacToeGame\obj\Debug\TTT.pdb
